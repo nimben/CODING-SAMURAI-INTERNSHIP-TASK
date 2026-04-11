@@ -1,10 +1,8 @@
-# 🎮 Pong Game (Unity)
+# Pong Game (Unity)
 
 A simple 2D Pong game built using Unity as part of my game development learning and internship tasks.
 
----
-
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Install Unity Hub
 2. Make sure you have the correct Unity version:
